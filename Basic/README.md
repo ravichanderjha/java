@@ -1,11 +1,8 @@
 # Basic
 
 1. HelloWorld
-
-2. InitializeVariable
-3. PrimitiveDataType
-4. Operator
-5. String
-6. Array And String
-7. Array And Arrays
-8. 
+2. PrimitiveDataType
+3. Operator
+4. String
+5. Array
+6. Arrays
