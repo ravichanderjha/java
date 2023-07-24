@@ -77,18 +77,8 @@ Certainly! Below is the content list formatted for a Git `README.md` file:
 - Synchronization
 - Thread Communication
 
-## 8. Java Streams API
-
-- Introduction to Streams
-- Stream Operations (map, filter, reduce, etc.)
-- Collectors
-
-## 9. Java 8 Features
-
-- Lambda Expressions
-- Functional Interfaces
-- Default Methods in Interfaces
-- Stream API
+## 8. Java 8 
+- All Features
 
 ## 10. JDBC (Java Database Connectivity)
 
