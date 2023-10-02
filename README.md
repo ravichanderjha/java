@@ -14,6 +14,7 @@ Certainly! Below is the content list formatted for a Git `README.md` file:
 8. [Java Streams API](#java-streams-api)
 9. [Java 8 Features](#java-8-features)
 10. [JDBC (Java Database Connectivity)](#jdbc-java-database-connectivity)
+11. [SOLID principles](#SOLID principles)
 11. [Java GUI Programming (Swing and JavaFX)](#java-gui-programming-swing-and-javafx)
 12. [Java Web Development](#java-web-development)
 13. [Java Design Patterns](#java-design-patterns)

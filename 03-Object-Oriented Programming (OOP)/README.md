@@ -305,4 +305,5 @@ MyUtility.doSomething();
 
 This section covered Object-Oriented Programming (OOP) concepts in Java, including creating classes and objects, using constructors, encapsulation with access modifiers, inheritance, polymorphism, abstraction through abstract classes and interfaces, and organizing code with packages. These fundamental concepts form the backbone of Java programming, enabling code reusability, modularity, and maintainability.
 
-*Please continue to the next sections for more Java topics and examples.*
+### Interfaces
+Some Uni
