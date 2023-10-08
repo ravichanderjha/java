@@ -21,7 +21,10 @@ Creational design patterns deal with object creation mechanisms, trying to creat
    - **Explanation:** Creates new objects by copying an existing object, known as the prototype.
    - **Type:** Creational
 
+Certainly! Here's the addition of the Proxy Pattern to your list of Structural Design Patterns:
+
 ### Structural Patterns:
+
 Structural design patterns deal with object composition, creating relationships between objects to form larger structures.
 
 1. **Adapter Pattern:**
@@ -47,6 +50,11 @@ Structural design patterns deal with object composition, creating relationships 
 6. **Flyweight Pattern:**
    - **Explanation:** Minimizes memory usage or computational expenses by sharing as much as possible with related objects.
    - **Type:** Structural
+
+7. **Proxy Pattern:**
+   - **Explanation:** Provides a surrogate or placeholder for another object to control access to it.
+   - **Type:** Structural
+
 
 ### Behavioral Patterns:
 Behavioral design patterns focus on communication between objects, how they operate together, and how they distribute responsibilities.
